@@ -17,19 +17,19 @@
 			8D1107260486CEB800E47090 /* SBVConverter */,
 		);
 		breakpoints = (
-			491B31D014687C0A00AB9E93 /* AppController.m:414 */,
-			491B31D514687C3000AB9E93 /* AppController.m:632 */,
-			491B31DD14687CA700AB9E93 /* AppController.m:431 */,
-			491B320014687E5B00AB9E93 /* AppController.m:631 */,
-			491B32091468802900AB9E93 /* AppController.m:587 */,
-			491B3251146889A100AB9E93 /* AppController.m:312 */,
-			49314460146B06D8009AEAFC /* AppController.m:43 */,
-			49314466146B072D009AEAFC /* AppController.m:60 */,
-			49314474146B077C009AEAFC /* AppController.m:43 */,
-			49314491146B087A009AEAFC /* AppController.m:45 */,
-			493144E5146B1066009AEAFC /* AppController.m:125 */,
-			49AEC73F146C322400C86538 /* AppController.m:502 */,
-			49AEC750146C333300C86538 /* AppController.m:405 */,
+			491B31D014687C0A00AB9E93 /* AppController.m:436 */,
+			491B31D514687C3000AB9E93 /* AppController.m:654 */,
+			491B31DD14687CA700AB9E93 /* AppController.m:453 */,
+			491B320014687E5B00AB9E93 /* AppController.m:653 */,
+			491B32091468802900AB9E93 /* AppController.m:609 */,
+			491B3251146889A100AB9E93 /* AppController.m:334 */,
+			49314460146B06D8009AEAFC /* AppController.m:65 */,
+			49314466146B072D009AEAFC /* AppController.m:82 */,
+			49314474146B077C009AEAFC /* AppController.m:65 */,
+			49314491146B087A009AEAFC /* AppController.m:67 */,
+			493144E5146B1066009AEAFC /* AppController.m:147 */,
+			49AEC73F146C322400C86538 /* AppController.m:524 */,
+			49AEC750146C333300C86538 /* AppController.m:427 */,
 		);
 		codeSenseManager = 491B314D146867EF00AB9E93 /* Code sense */;
 		executables = (
@@ -80,12 +80,11 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 347391170;
-			PBXWorkspaceStateSaveDate = 347391170;
+			PBXPerProjectTemplateStateSaveDate = 347400766;
+			PBXWorkspaceStateSaveDate = 347400766;
 		};
 		perUserProjectItems = {
-			4903DA7714B4C4C800C02E20 /* PBXTextBookmark */ = 4903DA7714B4C4C800C02E20 /* PBXTextBookmark */;
-			49B11A8614A4EB54003B0EA5 = 49B11A8614A4EB54003B0EA5 /* PBXTextBookmark */;
+			4903DA7F14B4C84A00C02E20 = 4903DA7F14B4C84A00C02E20 /* PBXTextBookmark */;
 			49E50C0414B4BA3A00A94210 = 49E50C0414B4BA3A00A94210 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 491B314C146867EF00AB9E93 /* Source Control */;
@@ -100,12 +99,12 @@
 			sepNavWindowFrame = "{{542, 4}, {1356, 1174}}";
 		};
 	};
-	4903DA7714B4C4C800C02E20 /* PBXTextBookmark */ = {
+	4903DA7F14B4C84A00C02E20 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 491B314F1468687300AB9E93 /* AppController.h */;
 		name = "AppController.h: 71";
 		rLen = 0;
-		rLoc = 1666;
+		rLoc = 2487;
 		rType = 0;
 		vrLen = 1781;
 		vrLoc = 804;
@@ -151,21 +150,21 @@
 	};
 	491B314F1468687300AB9E93 /* AppController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {819, 1526}}";
-			sepNavSelRange = "{1666, 0}";
-			sepNavVisRange = "{804, 1781}";
-			sepNavWindowFrame = "{{793, 4}, {878, 1174}}";
+			sepNavIntBoundsRect = "{{0, 0}, {819, 1820}}";
+			sepNavSelRange = "{89, 879}";
+			sepNavVisRange = "{0, 2131}";
+			sepNavWindowFrame = "{{113, -82}, {878, 1174}}";
 		};
 	};
 	491B31501468687300AB9E93 /* AppController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {938, 8932}}";
-			sepNavSelRange = "{15225, 0}";
-			sepNavVisRange = "{0, 2398}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 9170}}";
+			sepNavSelRange = "{968, 0}";
+			sepNavVisRange = "{3816, 1985}";
 			sepNavWindowFrame = "{{500, 4}, {914, 1174}}";
 		};
 	};
-	491B31D014687C0A00AB9E93 /* AppController.m:414 */ = {
+	491B31D014687C0A00AB9E93 /* AppController.m:436 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -177,12 +176,12 @@
 		functionName = "-parse";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 414;
+		lineNumber = 436;
 		location = SubtitleConverter;
 		modificationTime = 347388449.781491;
 		state = 2;
 	};
-	491B31D514687C3000AB9E93 /* AppController.m:632 */ = {
+	491B31D514687C3000AB9E93 /* AppController.m:654 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -194,12 +193,12 @@
 		functionName = "-isStartOfTimeCode:index:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 632;
+		lineNumber = 654;
 		location = SubtitleConverter;
 		modificationTime = 347388449.7815059;
 		state = 2;
 	};
-	491B31DD14687CA700AB9E93 /* AppController.m:431 */ = {
+	491B31DD14687CA700AB9E93 /* AppController.m:453 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -211,12 +210,12 @@
 		functionName = "-parse";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 431;
+		lineNumber = 453;
 		location = SubtitleConverter;
 		modificationTime = 347388449.7815111;
 		state = 2;
 	};
-	491B320014687E5B00AB9E93 /* AppController.m:631 */ = {
+	491B320014687E5B00AB9E93 /* AppController.m:653 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -228,12 +227,12 @@
 		functionName = "-isStartOfTimeCode:index:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 631;
+		lineNumber = 653;
 		location = SubtitleConverter;
 		modificationTime = 347388449.781514;
 		state = 2;
 	};
-	491B32091468802900AB9E93 /* AppController.m:587 */ = {
+	491B32091468802900AB9E93 /* AppController.m:609 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -245,12 +244,12 @@
 		functionName = "-convertTimecode:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 587;
+		lineNumber = 609;
 		location = SubtitleConverter;
 		modificationTime = 347388449.7815169;
 		state = 2;
 	};
-	491B3251146889A100AB9E93 /* AppController.m:312 */ = {
+	491B3251146889A100AB9E93 /* AppController.m:334 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -262,12 +261,12 @@
 		functionName = "-frameRateTextFieldAction:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 312;
+		lineNumber = 334;
 		location = SubtitleConverter;
 		modificationTime = 347388449.781525;
 		state = 2;
 	};
-	49314460146B06D8009AEAFC /* AppController.m:43 */ = {
+	49314460146B06D8009AEAFC /* AppController.m:65 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -279,12 +278,12 @@
 		functionName = "-doString:userData:error:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 43;
+		lineNumber = 65;
 		location = SBVConverter;
 		modificationTime = 347388449.78153;
 		state = 2;
 	};
-	49314466146B072D009AEAFC /* AppController.m:60 */ = {
+	49314466146B072D009AEAFC /* AppController.m:82 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -296,12 +295,12 @@
 		functionName = "-awakeFromNib";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 60;
+		lineNumber = 82;
 		location = SBVConverter;
 		modificationTime = 347388449.7815331;
 		state = 2;
 	};
-	49314474146B077C009AEAFC /* AppController.m:43 */ = {
+	49314474146B077C009AEAFC /* AppController.m:65 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -313,12 +312,12 @@
 		functionName = "-applicationWillFinishLaunching:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 43;
+		lineNumber = 65;
 		location = SBVConverter;
 		modificationTime = 347388449.781536;
 		state = 2;
 	};
-	49314491146B087A009AEAFC /* AppController.m:45 */ = {
+	49314491146B087A009AEAFC /* AppController.m:67 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -330,12 +329,12 @@
 		functionName = "-application:openFile:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 45;
+		lineNumber = 67;
 		location = SBVConverter;
-		modificationTime = 347388449.7815389;
+		modificationTime = 347388449.7815388;
 		state = 2;
 	};
-	493144E5146B1066009AEAFC /* AppController.m:125 */ = {
+	493144E5146B1066009AEAFC /* AppController.m:147 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -347,7 +346,7 @@
 		functionName = "-loadPrefs";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 125;
+		lineNumber = 147;
 		location = SBVConverter;
 		modificationTime = 347388449.7815419;
 		state = 2;
@@ -367,7 +366,7 @@
 			sepNavWindowFrame = "{{1153, 4}, {1062, 1174}}";
 		};
 	};
-	49AEC73F146C322400C86538 /* AppController.m:502 */ = {
+	49AEC73F146C322400C86538 /* AppController.m:524 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -379,12 +378,12 @@
 		functionName = "-parse";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 502;
+		lineNumber = 524;
 		location = SBVConverter;
 		modificationTime = 347388449.781544;
 		state = 2;
 	};
-	49AEC750146C333300C86538 /* AppController.m:405 */ = {
+	49AEC750146C333300C86538 /* AppController.m:427 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -396,27 +395,17 @@
 		functionName = "-parse";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 405;
+		lineNumber = 427;
 		location = SBVConverter;
 		modificationTime = 347388449.781547;
 		state = 2;
-	};
-	49B11A8614A4EB54003B0EA5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 491B314F1468687300AB9E93 /* AppController.h */;
-		name = "AppController.h: 71";
-		rLen = 0;
-		rLoc = 1666;
-		rType = 0;
-		vrLen = 1781;
-		vrLoc = 804;
 	};
 	49E50C0414B4BA3A00A94210 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 491B314F1468687300AB9E93 /* AppController.h */;
 		name = "AppController.h: 71";
 		rLen = 0;
-		rLoc = 1666;
+		rLoc = 2487;
 		rType = 0;
 		vrLen = 1781;
 		vrLoc = 804;
